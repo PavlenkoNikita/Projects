@@ -11,6 +11,7 @@ namespace Parser_Test
         public List<String> code_program;
         private String file_name;
 
+        // Constructor
         public Class1(String file)
         {
             file_name = file;
